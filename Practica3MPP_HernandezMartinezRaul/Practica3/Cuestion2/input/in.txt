@@ -1,0 +1,4 @@
+# Parámetros: n n_gen tam_pob. Modificar los valores o añadir otros según se considere necesario.
+100 150 100 0.15
+300 100 500 0.15
+1000 50 800 0.15
